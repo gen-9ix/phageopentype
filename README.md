@@ -1,8 +1,4 @@
 # phageopentype
-novice, made an attempt in developing an opentype italic serif display font. not quite complete yet though. 
-屏東女中 113 級數理資優班資訊組作品。
-
-
 phage-1508 字型是屏東女中113級數理資優班同學（座號15、08）資訊獨立研究的作品。
 
 This font is developed by two local Taiwanese high school students for a school project. 
